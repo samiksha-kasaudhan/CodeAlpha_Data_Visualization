@@ -47,3 +47,11 @@ Data visualization helps transform raw data into meaningful insights. This proje
 
 ## Author
 Samiksha Kasaudhan
+## Histogram
+![Histogram](Histogram.png)
+
+## Bar Chart
+![Bar Chart](BarChart.png)
+
+## Pie Chart
+![Pie Chart](PieChart.png)
